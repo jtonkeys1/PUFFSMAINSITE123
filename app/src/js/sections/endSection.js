@@ -8,7 +8,7 @@ var LookAtField = require('../objects3D/LookAtFieldObject3D');
 var endSection = new Section('end');
 
 var text = new TextPanel(
-  'J  O  I  N   U  S   O  N\n D  E  C  E  M  B  E  R   1  8  T  H ',
+  'J  O  I  N   U  S   O  N\n D  E  C  E  M  B  E  R   1  7  T  H ',
   {
     align: 'center',
     style: '',
