@@ -23,7 +23,7 @@ grid.el.position.x = -20;
 ballSection.add(grid.el);
 
 var text = new TextPanel(
-  'A   N  E  W \n W  O  R  L  D',
+  'H  E  L  P  \n  P  U  F  F  S  \n R  E  G  A  I  N \n T  H  I  E  R  \n W  O  R  L  D  S',
   {
     align: 'left',
     style: '',

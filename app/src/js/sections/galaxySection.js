@@ -14,7 +14,7 @@ galaxySection.add(galaxy.el);
 galaxy.el.visible = false;
 
 var text = new TextPanel(
-  'W  O  R  K    S  M  A  R  T  E  R  , \n   V  E  R  Y   L  I  T  T  L  E    T  I  M  E',
+  'F  L  Y   B  A  T  T  L  E   W  I  N',
   {
     align: 'center',
     style: '',

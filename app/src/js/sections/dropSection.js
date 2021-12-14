@@ -13,7 +13,7 @@ drop.el.position.y = -10;
 dropSection.add(drop.el);
 
 var text = new TextPanel(
-  'W  E   B  R  I  N  G \n Y  O  U   A  N   I D E A',
+  '8  8  8  8    P  U  F  F  S   I  N   \n T  H  E   O  N  E  V  E  R  S  E',
   {
     align: 'right',
     style: '',

@@ -23,7 +23,7 @@ heightMap.el.rotation.y = -0.6;
 heightSection.add(heightMap.el);
 
 var text = new TextPanel(
-  'A    U  N  I  Q  U  E     \n M  U  L  T  I  P  L  A  Y  E  R    \n E  X  P  E  R  I  E  N  C  E',
+  'T  O   D  E  F  E  A  T \n T  H  E   D  A  R  K   O  N  E  S',
   {
     align: 'right',
     style: '',

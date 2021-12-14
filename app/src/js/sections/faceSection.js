@@ -9,7 +9,7 @@ var Strips = require('../objects3D/StripsObject3D');
 var faceSection = new Section('face');
 
 var text = new TextPanel(
-  'K  E  E  P \n L  O  O  K  I  N  G   \n F  O  R   A  \n  W  A  Y   O  U  T',
+  'I  N   A \n M  M  O  R  P  G \n U  N  I  V  E  R  S  E',
   {
     align: 'left',
     style: '',
